@@ -1,2 +1,2 @@
 # misc.config
- Configuration form multiples softwares.
+ Configuration from multiples softwares.
