@@ -24,7 +24,7 @@ config.prefer_egl = true
 
 config.font_size = 13.5
 
-config.default_cwd = "your\deefault\path"
+config.default_cwd = "your\\deefault\\path"
 
 config.window_padding = {
 	left = 2,
